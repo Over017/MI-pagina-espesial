@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+div{
+    background-color: rgb(245, 182, 182);
+    margin: auto;
+    width: 500px;
+    margin-top: 20px;
+    border: 15px solid transparent;
+    border-radius: 20px;
+
+}
+
+h1 {
+    font-family: "play";
+    font-weight: 100;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-family: "play";
+    font-weight:bold;
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.poema {
+    font-family: "play";
+    font-weight: 100;
+    font-size: 11px;
+    padding: 20px;
+    ;
+}
