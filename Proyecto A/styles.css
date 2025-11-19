@@ -2,6 +2,8 @@ body{
     width: 100%;
     height: 100vh;
     background: linear-gradient(#dd99ff,transparent);
+    color: #eee;
+    font-family: "play";
     
 
 }
@@ -9,32 +11,21 @@ body{
 div{
     background: #aa99ff;
     margin: auto;
-    width: 500px;
+    width: 400px;
     margin-top: 20px;
     border: 15px solid transparent;
     border-radius: 20px;
+    box-sizing: border-box;
 
 }
 
-h1 {
+a{
+    color:#1160fd ;
     font-family: "play";
-    font-weight: 100;
-    margin: 0;
-    text-align: center;
 }
 
-h2 {
-    font-family: "play";
-    font-weight:bold;
-    font-size: 13px;
-    letter-spacing: 2px;
-    text-align: center;
+
+h2{
+    color: #eee8;
 }
 
-.poema {
-    font-family: "play";
-    font-weight: 100;
-    font-size: 11px;
-    padding: 20px;
-    ;
-}
