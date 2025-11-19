@@ -9,7 +9,7 @@ body{
 }
 
 div{
-    background: #aa99ff;
+    background: #48a;
     margin: auto;
     width: 400px;
     margin-top: 20px;
@@ -20,8 +20,9 @@ div{
 }
 
 a{
-    color:#1160fd ;
+    color:#eee ;
     font-family: "play";
+    text-decoration: none;
 }
 
 
