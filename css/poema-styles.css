@@ -1,13 +1,14 @@
 body{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(#dd99ff,transparent);
+    background: linear-gradient(#048,transparent);
+    color: #eee;
     
 
 }
 
 div{
-    background: #aa99ff;
+    background: #48a;
     margin: auto;
     width: 400px;
     margin-top: 20px;
